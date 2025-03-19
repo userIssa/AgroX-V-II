@@ -32,13 +32,13 @@ This application helps users detect plant diseases by uploading images. It provi
 
 ## 📥 Download  
 📂 You can download the full application from Google Drive:  
-👉 [Download Here]([https://drive.google.com/file/d/1oCdinBih9A3W5i2Tq5WwDHPmwtOjqbTO/view?usp=sharing])  
+👉 [Download Here](https://drive.google.com/file/d/1oCdinBih9A3W5i2Tq5WwDHPmwtOjqbTO/view?usp=sharing)  
 
 ## 🛠 Installation & Usage  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/userIssa/AgroX-V-II
+   cd Agro-V-II
 2. Install Dependencies:
    ```sh
    flutter pub get

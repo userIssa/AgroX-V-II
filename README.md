@@ -13,7 +13,7 @@ This application helps users detect plant diseases by uploading images. It provi
 
 ## 📸 Screenshots  
 ### 🏡 Landing Page  
-![Landing Page](path-to-image/landing-page.png)  
+![Landing Page](screenshots/home.jpg)  
 
 ### 📤 Image Upload  
 ![Image Upload](path-to-image/image-upload.png)  

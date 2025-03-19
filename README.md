@@ -16,21 +16,19 @@ This application helps users detect plant diseases by uploading images. It provi
 ![Landing Page](screenshots/home.jpg)  
 
 ### 📤 Image Upload  
-![Image Upload](path-to-image/image-upload.png)  
+![Image Upload](screenshots/upload.jpg)  
 
 ### 🔍 Disease Detection  
-![Disease Detection](path-to-image/disease-detection.png)  
+![Disease Detection](screenshots/detection.jpg)  
 
 ### 💊 Recommendations  
-![Recommendations](path-to-image/recommendations.png)  
+![Recommendations](screenshots/recommendations.jpg)  
 
 ### 📖 Encyclopedia  
-![Encyclopedia](path-to-image/encyclopedia.png)  
+![Encyclopedia](screenshots/encyclopedia.jpg)  
 
 ### 👥 About Us  
-![About Us](path-to-image/about-us.png)  
-
-> *(Replace `path-to-image/filename.png` with the actual image paths in your repository.)*  
+![About Us](screenshots/about-us.jpg)  
 
 ## 📥 Download  
 📂 You can download the full application from Google Drive:  
